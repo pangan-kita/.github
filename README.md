@@ -3,7 +3,7 @@
 </div>
 
 ### Description
-Pangankita is a Product-Based Capstone Project for the Bangkit 2024 Batch 1 program. Our team consists of 7 members, including 2 people from the Cloud Computing team, 3 people from the Machine Learning team, and 2 people from the Mobile Development team.
+Pangankita is a Product-Based Capstone Project for the Bangkit 2024 Batch 1 program. Our team consists of 7 members, including 2 people from the Mobile Development team, 3 people from the Machine Learning team, and 2 people from the Cloud Computing team.
 
 <div align="center">
   <h3>Team members</h3>
