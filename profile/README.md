@@ -1,5 +1,5 @@
 <div align="center">
-<h2>Pangankita</h2>
+<h4>Pangankita</h4>
 </div>
 
 ### Description
