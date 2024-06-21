@@ -49,3 +49,6 @@ Pangankita is a Product-Based Capstone Project for the Bangkit 2024 Batch 1 prog
     </tr>
   </table>
 </div>
+
+
+PanganKita is an innovative platform that transforms Indonesia's agricultural market by directly connecting farmers and customers, eliminating middlemen who inflate prices. This allows farmers to set fair prices and increase profits while providing consumers with lower costs. Our execution plan includes building a user-friendly app, integrating a machine learning model to classify food, and developing a robust backend with Google Cloud for reliability and scalability.. The successful implementation of PanganKita will increase farmer profitability, lower consumer costs, and promote transparency and trust, all of which will help Indonesia's food supply chain become more sustainable and resilient.
