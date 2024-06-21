@@ -14,14 +14,14 @@ Pangankita is a Product-Based Capstone Project for the Bangkit 2024 Batch 1 prog
       <th>Name</th>
     </tr>
         <tr>
-      <td>Mobile Development</td>
-      <td>A267D4KY3901</td>
-      <td>M. Herdi Al-Fachri</td>
+ <td>Cloud Computing</td>
+      <td>C107D4KY0917</td>
+      <td>Arya Gunawan</td>
     </tr>
     <tr>
-      <td>Mobile Development</td>
-      <td>A288D4KY4468</td>
-      <td>Aditya Iza Nurrahman</td>
+      <td>Cloud Computing</td>
+      <td>C267D4KX0258</td>
+      <td>Natashya Welhelmina</td>
     </tr>
     <tr>
       <td>Machine Learning</td>
@@ -38,14 +38,14 @@ Pangankita is a Product-Based Capstone Project for the Bangkit 2024 Batch 1 prog
       <td>M315D4KY2324</td>
       <td>Nico Karuna</td>
       <tr>
-      <td>Cloud Computing</td>
-      <td>C107D4KY0917</td>
-      <td>Arya Gunawan</td>
+       <td>Mobile Development</td>
+      <td>A267D4KY3901</td>
+      <td>M. Herdi Al-Fachri</td>
     </tr>
     <tr>
-      <td>Cloud Computing</td>
-      <td>C267D4KX0258</td>
-      <td>Natashya Welhelmina</td>
+      <td>Mobile Development</td>
+      <td>A288D4KY4468</td>
+      <td>Aditya Iza Nurrahman</td>
     </tr>
   </table>
 </div>
